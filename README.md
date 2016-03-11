@@ -1,0 +1,2 @@
+# UretimTakip
+Üretim Takip Uygulaması
